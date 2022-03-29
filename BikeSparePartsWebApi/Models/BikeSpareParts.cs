@@ -15,5 +15,7 @@ namespace BikeSparePartsWebApi.Models
         public string SparePartName { get; set; }
 
         public int SparePartPrice { get; set; }
+
+        //for git help
     }
 }
